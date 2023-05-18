@@ -1,4 +1,4 @@
-helo
+Ahelo
 meow
 SAme
 hello mkukiro
@@ -61,4 +61,45 @@ idk
 i wanna play around with the ? command
 it looks fun
 ok
-fun!!
+super mario 64 -> WAAAAAAA
+helo :3
+hello!!!!!!!!!
+finally this program works!
+i fixed a bug
+and i've added some example programs, let me paste them here :O
+i made the code a bit bigger, i think it will be faster
+uh not really
+FASTER!!!
+for me it's like 2x fastr
+should we try some new programs i made?
+ok NOW its more faster
+OH YEAH
+if you add more b and Os to the program it becomes more faster
+oh yeah because you make more bits (b) at a time :O
+hold on imma make the "fastest" version of the screensaver program
+ohhok!
+oh look at this blinky dinky blinky switchy blinker in the shell
+holy fuck i made the program too large
+WOOSH
+ok...should work...
+oh i know whats the cause lemme fix it
+i think it only did it 1 time and then it stopped
+maybe because it was too big?? idk
+fixed!
+look! :O
+OMG ITS SO FAST!!!!
+i somehow see a sea-like pattern -> OMGG TRUE
+it generated a lot of them at a time
+I SEE A STARFISH
+NOW I SEE A SKULL
+FIRE?
+FIRE!?!?
+OH AN ORGE!! shrek
+FLAMES
+MINECRAFT DOOR
+FIRE (100th line!!)
+wait...I THINK I SAW A CARTOON BEE
+OH YEAH
+theres so many things generating...
+what if i take the output this program made, and replaced the 0s or 1s with spaces? we could see so much stuff :O
+i've did it! ill Send it on ds
